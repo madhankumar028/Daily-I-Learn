@@ -14,3 +14,6 @@
 
 17/12/16
 1. Learnt emmet. Added emmet plugin in to my text editor.
+
+18/12/16
+1. Learnt angular component and migrating my app to 1.5
