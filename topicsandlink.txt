@@ -28,3 +28,9 @@
             string.prototype.repeat
 2. New keywords in depth: let and const.
 3. Resolve state and how to include it into a controller.
+4. Babeljs (transpiler) configuration: 
+      cd && mkdir babel_example && cd $_
+      npm init
+      # Hit ENTER a bunch of times . . . 
+      npm install --save-dev babel-cli babel-preset-es2015 babel-plugin-transform-async-to-generator
+      
