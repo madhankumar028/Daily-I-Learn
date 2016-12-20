@@ -17,3 +17,14 @@
 
 18/12/16
 1. Learnt angular component and migrating my app to 1.5
+
+20/12/16
+1. Learnt new string properties from es6
+      --> string interpolation (concatenation and so on).
+      --> string methods 
+            string.prototype.startsWith
+            string.prototype.endsWith
+            string.prototype.includes
+            string.prototype.repeat
+2. New keywords in depth: let and const.
+3. Resolve state and how to include it into a controller.
