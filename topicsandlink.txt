@@ -33,4 +33,12 @@
       npm init
       # Hit ENTER a bunch of times . . . 
       npm install --save-dev babel-cli babel-preset-es2015 babel-plugin-transform-async-to-generator
-      
+
+23/12/16
+1. Started learning ng-2 basics and developing sample todo sidebyside.
+      import and export statements
+      components
+      selectors
+      Property binding
+      Event binding
+      Local Variable(#) and asterisk(*) prepended to directive.
