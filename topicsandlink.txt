@@ -43,3 +43,7 @@
       Event binding
       Local Variable(#) and asterisk(*) prepended to directive.
 2. Started developing a todo app using angular2 and pushed it to github.
+
+26/12/16
+1. Done with the todo app using angular2 and learnt few things
+   like (ngModel, why we need systemJS....) while developing it.
