@@ -47,3 +47,7 @@
 26/12/16
 1. Done with the todo app using angular2 and learnt few things
    like (ngModel, why we need systemJS....) while developing it.
+
+4/12/17
+1. Started Ng2 from the starting of the year completed a todd app and a router app.
+   => learnt how to make http call and router in ng2.
