@@ -8,8 +8,8 @@
 
 16/12/16
 1. Learnt sass basics and creating github gist with the basics which I learnt.
-2. Array.prototype.push.apply() : merges two array.
-3. arr.push() : returns len of arr.
+2. Array.prototype.push.apply() : merges two array as like concat.
+3. arr.push() : add it to the last element of the array and returns len of arr.
 
 
 17/12/16
