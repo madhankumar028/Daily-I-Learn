@@ -1,3 +1,3 @@
 # Daily-I-Learn
 
-* [Topics and link](topicsandlink.md)
+[Topics and link](topicsandlink.md)
